@@ -5,10 +5,11 @@ p.topHead {
     font-style: italic;
 
 }
-h1.mainHead {
+#mainHead {
     font-weight: 900;
     text-align: center;
 }
+
 p.intro {
     color: chocolate;
     border-style: solid;
@@ -18,20 +19,16 @@ p.intro {
     padding-right: 20px;
     text-align: justify;
 }
+
 h2.introHead {
     font-weight: bold;
     text-align: center;
 }
-p.para1 {
+
+.margin-set {
     margin: 20px;
-    text-align: justify;
 }
-p.para2 {
-    text-align: justify;
-}
-p.para3 {
-    text-align: justify;
-}
-p.para4 {
-    text-align: justify;
-}
+
+.align-para {
+        text-align: justify;
+    }
